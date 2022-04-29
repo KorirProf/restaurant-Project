@@ -1,0 +1,8 @@
+.NAVBAR{
+    margin: 1px;
+    border: 1px solid navy;
+}
+.container{
+    border: 20px blue;
+    margin: 20px;
+}
